@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Test.Revit</Name>
+		<Assembly>{path}\src\share\{version}\Test.Revit.Addin.dll</Assembly>
+		<ClientId>CE690FE7-ED83-4EFC-AC71-85BD26B3CB88</ClientId>
+		<FullClassName>Test.Revit.Addin.Application</FullClassName>
+		<VendorId>StarkIndustries</VendorId>
+		<VendorDescription>STARK INDUSTRIES MARK1</VendorDescription>
+	</AddIn>
+</RevitAddIns>
